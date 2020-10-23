@@ -11,10 +11,6 @@ Desktop application of the system for a tourist operator, with the admin side an
 - Automation of voucher compilation, selection and combination of flights for the required dates.
 ### Tehnologies
 C#/Windows Forms
-### Data schema
-![](https://github.com/DaniilPanasenko/TouroperatorSystem/raw/master/Media/ER.png)
-### Use Case diagram
-![](https://github.com/DaniilPanasenko/TouroperatorSystem/raw/master/Media/use_case.png)
 ### Screenshoots
 ##### Authorization
 ![](https://github.com/DaniilPanasenko/TouroperatorSystem/raw/master/Media/screen0.png)
@@ -47,9 +43,10 @@ C#/Windows Forms
 ![](https://github.com/DaniilPanasenko/TouroperatorSystem/raw/master/Media/screen12.png)
 ![](https://github.com/DaniilPanasenko/TouroperatorSystem/raw/master/Media/screen13.png)
 ##### Reports
-![](https://github.com/DaniilPanasenko/TouroperatorSystem/raw/master/Media/screen17.png#thumbnail)
+![](https://github.com/DaniilPanasenko/TouroperatorSystem/raw/master/Media/screen17.png)
 ![](https://github.com/DaniilPanasenko/TouroperatorSystem/raw/master/Media/screen18.png)
-img[src*="#thumbnail"] {
-   width:150px;
-   height:100px;
-}
+### Data schema
+![](https://github.com/DaniilPanasenko/TouroperatorSystem/raw/master/Media/ER.png)
+### Use Case diagram
+![](https://github.com/DaniilPanasenko/TouroperatorSystem/raw/master/Media/use_case.png)
+
